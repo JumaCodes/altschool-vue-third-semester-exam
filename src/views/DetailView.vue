@@ -55,6 +55,7 @@ export default {
 </script>
 
 <style scoped>
+
 .back{
     color: #fff;
     background: rebeccapurple;
