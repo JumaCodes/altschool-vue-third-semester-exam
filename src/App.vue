@@ -2,12 +2,12 @@
 <template>
   <div>
     <UserInfo />
-    <!-- <RouterView /> -->
+    <RouterView />
   </div>
 </template>
 
 <script setup>
-// import { RouterView } from "vue-router";
+import { RouterView } from "vue-router";
 import UserInfo from './components/UserInfo.vue'
 </script>
 
