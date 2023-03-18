@@ -1,5 +1,7 @@
 # exam
 
+Here is the deployed Link: https://altschool-vue-third-semester-exam.vercel.app/
+
 ## Project setup
 ```
 npm install
