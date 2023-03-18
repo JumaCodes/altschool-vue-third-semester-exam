@@ -63,12 +63,14 @@ export default {
     padding: 20px;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 .heading{
     display: flex;
     justify-content: space-between;
     align-content: center;
+    padding: 1rem
 }
 
 .carousel-container{
